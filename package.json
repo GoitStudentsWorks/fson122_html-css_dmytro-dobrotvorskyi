@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-08/",
+    "build": "vite build --base=/fson122_html-css_dmytro-dobrotvorskyi/",
     "preview": "vite preview"
   },
   "devDependencies": {
